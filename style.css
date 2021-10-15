@@ -1,0 +1,50 @@
+body{
+	background:#0be8de;
+}
+.userlogin h2{
+	font-family:sans-serif;
+
+	color:#757575;
+	margin:0px;
+	text-align:center;
+}
+.box{
+	box-shadow:4px 4px 20px -5px;
+	background:white;
+	width:300px;
+	padding:20px;
+	margin:auto;
+	margin-top:180px;
+	border-radius:20px;
+	
+}
+.box input{
+		width:100%;
+	    display:block;
+        padding:8px 10px;
+		background:#e6dcdc;
+		margin:20px 0px;
+		border:none;
+		padding-left:26px;
+		
+}
+.box  .loginButton{
+	
+	color:white;
+	font-family:arial black;
+	
+	background:#31eae2;
+}
+.text{
+	text-align:center;
+	
+	color:#525050;
+	
+	
+}
+.text a{
+	
+	color:#33a7a1;
+	text-decoration:none;
+	
+}
